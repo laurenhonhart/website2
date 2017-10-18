@@ -1,0 +1,31 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+# 9:00 Midterm
+### Lauren Honhart
+### October 15, 2017
+
+## Problem 1
+
+Make a webpage that looks exactly like the one found here except that it has your name as author. Make it live on github, naming your repository whatever you would like to. Send me the url on the slack channel midterm_url.
+----------------------------
+
+You will be adding the code you create in the next two problems to a dashboard. Use your Mercyhurst email ID to name the file. For instance, if your email address is jones01@lakers.mercyhurst.edu, then you should name your file jones01.Rmd.
+
+## Problem 2
+
+Look at the first plot found in the dashboard here. It is a time-series which plots the number of wins the Philadelphia Phillies had each year.
+
+Reproduce this plot by first extracting the data you need and then using ggplot. The number of wins a team had in a given year is the column W in the Teams table. The Phillies teamID is 'PHI'.
+
+## Problem 3
+
+Look at the second plot found in the dashboard here. It is a bar plot which indicates the four pitchers (Alexander, Johnson, Mathewson, and Young) who had the most career wins and how many career wins each had.
+
+Reproduce this plot by first extracting the data you need and then using ggplot. You will need to use the Pitching and Master tables. Number of wins is W in the Pitching table. (Hint: These four pitchers are the only pitchers to have more than 370 career wins.) The bars of the plot do not need to be in increasing or decreasing order.
+
+##Submission
+
+Use this link to submit your Rmd file.
